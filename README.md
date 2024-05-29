@@ -1,5 +1,5 @@
 # tictactoeAI
-
+<img width="591" alt="Screenshot 2024-05-29 at 3 31 24 PM" src="https://github.com/kayvandharsee/tictactoeAI/assets/135669229/f8a9b779-f561-461f-bfa4-815349a93e37">
 
 ## Summary
 This assignment uses the Minimax algorithm in order to allow the AI to survey all possible outcomes of each move, and play the game optimally.
